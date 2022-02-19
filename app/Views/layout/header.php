@@ -51,7 +51,7 @@
                         <li>
                             <div>
                                 <form role="search" method="get" class="search-form" action="#">
-                                    <input type="text" />
+                                    <input class="cari" />
                                 </form>
                             </div>
                         </li>

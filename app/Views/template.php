@@ -1011,7 +1011,7 @@
             font-size: 25px;
             font-family: Text Me One;
             font-weight: 900;
-            padding-right: 40px;
+            padding-right: 25px;
         }
 
         footer.main {
@@ -1023,22 +1023,22 @@
             background-color: #144f0a;
         }
 
-        input[type=text] {
+        .cari {
             width: 50px;
             box-sizing: border-box;
             border: none;
             border-radius: 10px;
             font-size: 16px;
             background-color: white;
-            background-image: url('search.png');
+            background-image: url('ico/search.png');
             background-position: 23px 12px;
             background-repeat: no-repeat;
             padding: 12px 20px 12px 50px;
-            -webkit-transition: width 0.4s ease-in-out;
+            cursor: pointer;
             transition: width 0.4s ease-in-out;
         }
 
-        input[type=text]:focus {
+        .cari:focus {
             width: 100%;
         }
     </style>

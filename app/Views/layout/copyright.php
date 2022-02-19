@@ -235,7 +235,7 @@
 <script type='text/javascript' src='https://desawisatabantul.com/wp-content/plugins/blog-sidebar-widget/public/js/fontawesome/v4-shims.js?ver=5.6.3' id='v4-shims-js'></script>
 <script type='text/javascript' src='https://desawisatabantul.com/wp-content/themes/wp-magazine/js/fontawesome.min.js?ver=5.14.0' id='fontawesome-js'></script>
 <script type='text/javascript' src='https://desawisatabantul.com/wp-content/themes/wp-magazine/js/owl.carousel.min.js?ver=2.2.1' id='owl-js'></script>
-<script type='text/javascript' src='navigation.min.js' id='wp-magazine-navigation-js'></script>
+<script type='text/javascript' src='js/navigation.min.js' id='wp-magazine-navigation-js'></script>
 <script type='text/javascript' id='wp-magazine-scripts-js-extra'>
     /* <![CDATA[ */
     var wp_magazine_scripts_var = {
