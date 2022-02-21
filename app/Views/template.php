@@ -710,11 +710,6 @@
         footer.main {
             background-color: #f4f0ed;
         }
-
-
-        header .top-info.pri-bg-color {
-            background-color: #144f0a;
-        }
     </style>
     <link rel='stylesheet' id='travel-magazine-lite-css' href='https://desawisatabantul.com/wp-content/themes/travel-magazine-lite/style.css?ver=1.0.2' type='text/css' media='all' />
     <link rel='stylesheet' id='owl-css' href='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.2/assets/owl.carousel.min.css' type='text/css' media='all' />
@@ -836,7 +831,7 @@
 
 
         :root {
-            --primary-color: #5a7f5e;
+            --primary-color: #9AD0EC;
             --secondary-color: #50596c;
             --dark-color: #333;
             --white-color: #fff;
@@ -996,19 +991,19 @@
         }
 
         header .main-nav {
-            background-color: #ddbc89;
+            background-color: #398AB9;
         }
 
         .main-navigation ul ul.sub-menu {
-            background-color: #ddbc89;
+            background-color: #398AB9;
         }
 
         .main-navigation .nav-menu {
-            background-color: #ddbc89;
+            background-color: #398AB9;
         }
 
         #primary-menu li a {
-            font-size: 25px;
+            font-size: 20px;
             font-family: Text Me One;
             font-weight: 900;
             padding-right: 25px;

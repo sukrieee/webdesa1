@@ -1,21 +1,5 @@
+<link rel="stylesheet" href="css/slide.css">
 <header>
-
-    <section class="top-bar" style=background-image:url(https://desawisatabantul.com/wp-content/uploads/2021/06/heada-scaled.jpg)>
-        <div class="container">
-            <div class="row top-head-2">
-                <div class="col-sm-4 logo text-left">
-
-                    <a href="#" class="custom-logo-link" rel="home" aria-current="page"><img width="360" height="90" src="https://desawisatabantul.com/wp-content/uploads/2021/06/cropped-logotext-1.png" class="custom-logo" alt="" srcset="https://desawisatabantul.com/wp-content/uploads/2021/06/cropped-logotext-1.png 360w, https://desawisatabantul.com/wp-content/uploads/2021/06/cropped-logotext-1-300x75.png 300w" sizes="(max-width: 360px) 100vw, 360px" /></a>
-                </div>
-
-            </div>
-        </div> <!-- /.end of container -->
-    </section> <!-- /.end of section -->
-
-
-
-
-
     <section class="main-nav nav-two  sticky-header">
         <div class="container">
             <nav id="site-navigation" class="main-navigation">
@@ -60,5 +44,22 @@
             </nav><!-- #site-navigation -->
         </div>
     </section>
-
+    <div id="slider-wrapper">
+        <div class="inner-wrapper">
+            <input checked type="radio" name="slide" class="control" id="Slide1" />
+            <label for="Slide1" id="s1"></label>
+            <input type="radio" name="slide" class="control" id="Slide2" />
+            <label for="Slide2" id="s2"></label>
+            <input type="radio" name="slide" class="control" id="Slide3" />
+            <label for="Slide3" id="s3"></label>
+            <input type="radio" name="slide" class="control" id="Slide4" />
+            <label for="Slide4" id="s4"></label>
+            <div class="overflow-wrapper">
+                <a class="slide" href=""><img src="slide-1.jpg" /></a>
+                <a class="slide" href=""><img src="slide-2.jpg" /></a>
+                <a class="slide" href=""><img src="slide-3.jpg" /></a>
+                <a class="slide" href=""><img src="slide-4.jpg" /></a>
+            </div>
+        </div>
+    </div>
 </header>
