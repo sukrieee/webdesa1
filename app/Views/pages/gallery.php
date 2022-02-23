@@ -11,7 +11,7 @@
     @import url(https://fonts.googleapis.com/css?family=Quicksand:400,300);
 
     body {
-        font-family: 'Quicksand', sans-serif;
+        font: 400 16px/24px Poppins;
     }
 
     .gal-container {

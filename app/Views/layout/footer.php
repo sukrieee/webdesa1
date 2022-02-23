@@ -231,7 +231,7 @@
             </script>
         </aside>
         <aside id="blog_sidebar_widget_image_text_widget-3" class="widget widget_blog_sidebar_widget_image_text_widget">
-            <div class="section-heading">Social</div>
+            <div class="section-heading">Social Media</div>
             <ul class="blog-sidebar-widget-itw-holder">
                 <li>
                     <a href="#" target="_blank"><i class="fa fa-instagram"></i> Instagram</a>
