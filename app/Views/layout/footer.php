@@ -21,7 +21,7 @@
                 </div>
                 <div class="item">
                     <a href="#" class="post-thumbnail" target="_self">
-                        <img width="263" height="190" src="https://desawisatabantul.com/wp-content/uploads/2021/08/Gambar7-263x190.png" class="attachment-post-slider-thumb-size size-post-slider-thumb-size wp-post-image" alt="" loading="lazy" itemprop="image" /> </a>
+                        <img width="330" height="190" src="https://desawisatabantul.com/wp-content/uploads/2021/08/Gambar7-263x190.png" class="attachment-post-slider-thumb-size size-post-slider-thumb-size wp-post-image" alt="" loading="lazy" itemprop="image" /> </a>
                     <div class="carousel-title">
                         <span class="cat-links"><a href="#" title="View all posts in Profil Desa Wisata" target="_self">Profil Desa Wisata</a></span>
                         <h3 class="title"><a href="#">Desa Wisata Karangtengah</a></h3>
@@ -221,7 +221,7 @@
                         items: 1,
                         slideSpeed: 5000,
                         nav: 1,
-                        dots: 1,
+                        dots: 0,
                         rtl: true,
                         autoplay: true,
                         loop: true,
@@ -231,18 +231,53 @@
             </script>
         </aside>
         <aside id="blog_sidebar_widget_image_text_widget-3" class="widget widget_blog_sidebar_widget_image_text_widget">
-            <div class="section-heading">Dinas Pariwisata Bantul</div>
+            <div class="section-heading">Social</div>
             <ul class="blog-sidebar-widget-itw-holder">
-                <li> <a href="#" target="_blank">
-                        <img width="300" height="190" src="https://desawisatabantul.com/wp-content/uploads/2021/06/Dinpar-Bantul-2-300x190.jpg" class="attachment-post-slider-thumb-size size-post-slider-thumb-size" alt="" loading="lazy" /> </a>
+                <li>
+                    <a href="#" target="_blank"><i class="fa fa-instagram"></i> Instagram</a>
+                </li>
+                <li>
+                    <a href="#" target="_blank"><i class="fa fa-facebook"></i> Facebook</a>
+                </li>
+                <li>
+                    <a href="#" target="_blank"><i class="fa fa-twitter"></i> Twitter</a>
+                </li>
+            </ul>
+            <br>
+            <div class="section-heading">Account</div>
+            <ul class="blog-sidebar-widget-itw-holder">
+                <li>
+                    <a href="#" target="_blank"> Login</a>
+                </li>
+                <li>
+                    <a href="#" target="_blank"> Members</a>
                 </li>
             </ul>
         </aside>
         <aside id="blog_sidebar_widget_image_text_widget-4" class="widget widget_blog_sidebar_widget_image_text_widget">
-            <div class="section-heading">Aplikasi Jelajah Bantul</div>
+            <div class="section-heading">Menu</div>
             <ul class="blog-sidebar-widget-itw-holder">
-                <li> <a href="#" target="_blank">
-                        <img width="300" height="190" src="https://desawisatabantul.com/wp-content/uploads/2021/06/Jelajah-Bantul-300x190.jpg" class="attachment-post-slider-thumb-size size-post-slider-thumb-size" alt="" loading="lazy" /> </a>
+                <li>
+                    <a href="#" target="_blank"> Profil Deswita</a>
+                </li>
+                <li>
+                    <a href="#" target="_blank">Gallery</a>
+                </li>
+                <li>
+                    <a href="#" target="_blank">About</a>
+                </li>
+            </ul>
+            <br>
+            <div class="section-heading">Artikel</div>
+            <ul class="blog-sidebar-widget-itw-holder">
+                <li>
+                    <a href="#" target="_blank">Event & Atraksi</a>
+                </li>
+                <li>
+                    <a href="#" target="_blank">Destinasi</a>
+                </li>
+                <li>
+                    <a href="#" target="_blank">Homestay</a>
                 </li>
             </ul>
         </aside>

@@ -1,6 +1,6 @@
-<div class="copyright text-center">
+<div class="copyright text-center" style="background-color: #062573;">
 
-    <a href="#">CV Carissa Kumara</a> | <a href="#" target="_blank" rel="nofollow">WPMagPlus</a> | <a href="#" target="_blank"><i class="fa fa-instagram"></i> Instagram</a>
+    <a href="#">CV Carissa Kumara</a> | <a href="#" target="_blank" rel="nofollow">WPMagPlus</a>
 </div>
 <div class="scroll-top-wrapper"> <span class="scroll-top-inner"><i class="fa fa-2x fa-angle-up"></i></span></div>
 

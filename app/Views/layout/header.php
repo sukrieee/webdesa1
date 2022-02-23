@@ -1,4 +1,6 @@
-<link rel="stylesheet" href="css/slide.css">
+<link href="css/tinyslide.css" rel="stylesheet" />
+<script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="js/tinyslide.js"></script>
 <header>
     <section class="main-nav nav-two  sticky-header">
         <div class="container">
@@ -44,22 +46,24 @@
             </nav><!-- #site-navigation -->
         </div>
     </section>
-    <div id="slider-wrapper">
-        <div class="inner-wrapper">
-            <input checked type="radio" name="slide" class="control" id="Slide1" />
-            <label for="Slide1" id="s1"></label>
-            <input type="radio" name="slide" class="control" id="Slide2" />
-            <label for="Slide2" id="s2"></label>
-            <input type="radio" name="slide" class="control" id="Slide3" />
-            <label for="Slide3" id="s3"></label>
-            <input type="radio" name="slide" class="control" id="Slide4" />
-            <label for="Slide4" id="s4"></label>
-            <div class="overflow-wrapper">
-                <a class="slide" href=""><img src="slide-1.jpg" /></a>
-                <a class="slide" href=""><img src="slide-2.jpg" /></a>
-                <a class="slide" href=""><img src="slide-3.jpg" /></a>
-                <a class="slide" href=""><img src="slide-4.jpg" /></a>
-            </div>
-        </div>
-    </div>
+    <section id="tiny" class="tinyslide">
+        <aside class="slides">
+            <figure>
+                <img src="slide1.png" alt="" />
+            </figure>
+            <figure>
+                <img src="slide2.png" alt="" />
+            </figure>
+            <figure>
+                <img src="slide3.jpg" alt="" />
+            </figure>
+            <figure>
+                <img src="slide4.jpg" alt="" />
+            </figure>
+        </aside>
+    </section>
+    <script>
+        var tiny = $('#tiny').tiny().data('api_tiny');
+    </script>
+
 </header>

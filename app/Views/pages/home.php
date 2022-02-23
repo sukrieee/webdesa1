@@ -164,7 +164,7 @@
 
 <div id="heading">
     <div id="scroll_container">
-        <div id="horizontal_scroll"></div>
+        <div id="horizontal_scroll" style="background-color: #398AB9;"></div>
     </div>
 </div>
 <div id="content" class="layout-1">

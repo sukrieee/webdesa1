@@ -1010,7 +1010,7 @@
         }
 
         footer.main {
-            background-color: #f4f0ed;
+            background-color: #398AB9;
         }
 
 
@@ -1094,7 +1094,7 @@
     <?= $this->include('layout/header'); ?>
     <?= $this->renderSection('content'); ?>
     <?= $this->include('layout/footer'); ?>
-    <?= $this->include('layout/copyright'); ?>
+    <?= $this->include('layout/copyright') ?>
 </body>
 
 </html>
